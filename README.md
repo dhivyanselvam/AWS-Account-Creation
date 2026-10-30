@@ -75,7 +75,8 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 ## OUTPUT:
 <img width="1861" height="857" alt="Screenshot 2026-07-27 132432" src="https://github.com/user-attachments/assets/0078d179-4124-4ac3-afaf-5d6afadf1690" />
 <img width="1050" height="472" alt="Screenshot 2026-07-27 133009" src="https://github.com/user-attachments/assets/a059c9b9-7057-4cea-b330-ec3e64ab43cf" />
-<img width="1024" height="579" alt="AWS" src="https://github.com/user-attachments/assets/02cef2a6-e6fe-485a-8270-49182c7cc549" />
+<img width="1417" height="802" alt="image" src="https://github.com/user-attachments/assets/41c6dba2-7043-456b-a416-11131079a67a" />
+
 
 
 
